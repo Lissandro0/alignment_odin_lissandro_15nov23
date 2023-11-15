@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://fernandoperez3108.github.io/Alignment/)
+[Live Demo Link](https://lissandro0.github.io/alignment_odin_lissandro_15nov23/)
 
 
 ## Getting Started
@@ -45,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Fernando Pérez**
 
-- GitHub: [fernandoperez3108](https://github.com/fernandoperez3108)
+- GitHub: [Lissandro0](https://github.com/Lissandro0)
 
 
 
